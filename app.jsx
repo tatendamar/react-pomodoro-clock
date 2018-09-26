@@ -145,7 +145,7 @@ class App extends React.Component {
           plus="&#43;"
           minus="&#8722;"
         />
-        <h4>Done by Tatenda Marufu</h4>
+        <h4>Designed & coded by TATENDA MARUFU</h4>
       </div>
     );
   }
